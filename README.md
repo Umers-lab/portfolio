@@ -113,4 +113,4 @@ Feel free to fork this project and submit pull requests with any improvements!
 
 ---
 
-**Made with ❤️ by Umer**
+**Made with by Umer**
